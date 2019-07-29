@@ -11,8 +11,8 @@
  * Created on 29 luglio 2019, 17.28
  */
 
-#ifndef MAINPR_H
-#define MAINPR_H
+#ifndef MAIN_H
+#define MAIN_H
 
 
 #include "addizione.h"
